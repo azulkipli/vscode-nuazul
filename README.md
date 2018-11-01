@@ -2,7 +2,7 @@
 kumpulan catatan vscode, tips trick, extension jeung sajabana
 
 ## Extension
-Berikut kumpulsan link extension yang memudahkan coding web development
+Berikut kumpulan link extension yang memudahkan coding web development
 
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
